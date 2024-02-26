@@ -1,11 +1,7 @@
 
-### Hi there 👋 I'm Andrei, an informatic engineer student at IST in Portugal. I'm passionate about technology, innovation, and problem-solving. I enjoy learning new skills and applying them to real-world challenges.
+### Hi there 👋 
+### I'm Andrei, an informatic engineer student at IST in Portugal. I'm passionate about technology, innovation, and problem-solving. I enjoy learning new skills and applying them to real-world challenges.
 
-<!--
-**AndreiBarb/AndreiBarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-I'm Andrei, an informatic engineer student at IST in Portugal. I'm passionate about technology, innovation, and problem-solving. I enjoy learning new skills and applying them to real-world challenges.
 
 - 🔭 I’m currently working on a project that involves Physics, Mathematics and Coding.
 - 🌱 I’m currently learning **Python**, **Prolog**, and **C**.
